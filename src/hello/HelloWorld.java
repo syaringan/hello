@@ -13,5 +13,6 @@ public class HelloWorld {
 		//System.out.println(System.getProperty("user.name"));
 		//System.out.println(System.getProperty("java.library.path")));
 		new HelloWorld().print();
+		System.out.println("hello world,nihao ");
 	}
 } 
